@@ -5,7 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paula-luiza-oliveira/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulalro8@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paula-luiza&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paula-luiza&layout=compact)  
 
 #### Tecnologias que estou aprendendo  
