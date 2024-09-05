@@ -7,7 +7,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paula-luiza&layout=compact)  
 
-#### Tecnologias que estou aprendendo  
+### Projetos Acadêmicos
+| -- | -- |
+| <a href="https://github.com/JoGabTasca/react-base-project">passeio carioca</a> - desenvolvimento de website para divulgação de app, em React para disciplina de Projeto Front-End |  <a href="https://github.com/paula-luiza/Documentacao-PasseioCarioca">passeio carioca</a> - documentação do projeto |
+| <a href="https://github.com/amandfernandes/AP2">caça ao tesouro</a> - desenvolvimento de jogo in-line de caça ao tesouro para a disciplina de Programação Estruturada  |  <a href="https://github.com/paula-luiza/ap2-desweb">botafogo</a> - website que consome API de jogadores do botafogo, desenvolvido a partir de template para a disciplina de Desenvolvimento Web |
+| <a href="">matinee</a> - criação de mockup de serviço de streaming de vídeo para a disciplina de Design e UX  |  <a href="https://github.com/paula-luiza/star-tours">star-tours</a> - design de website a partir de template existente para a disciplina de Design e UX|
+
+### Tecnologias que estou aprendendo  
 <div style="display: inline_block"><br/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
