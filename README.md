@@ -15,12 +15,12 @@
             <td><a href="https://github.com/paula-luiza/Documentacao-PasseioCarioca">passeio carioca</a> - Documentação do projeto</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/amandfernandes/AP2">caça ao tesouro</a> - desenvolvimento de jogo in-line de caça ao tesouro para a disciplina de Programação Estruturada</td>
-            <td><a href="https://github.com/paula-luiza/ap2-desweb">botafogo</a> - website que consome API de jogadores do botafogo, desenvolvido a partir de template para a disciplina de Desenvolvimento Web</td>
+            <td><a href="https://github.com/amandfernandes/AP2">caça ao tesouro</a> - Desenvolvimento de jogo in-line de caça ao tesouro para a disciplina de Programação Estruturada</td>
+            <td><a href="https://github.com/paula-luiza/ap2-desweb">botafogo</a> - Website que consome API de jogadores do botafogo, desenvolvido a partir de template para a disciplina de Desenvolvimento Web</td>
         </tr>
         <tr>
-            <td><a href="">matinee</a> - criação de mockup de serviço de streaming de vídeo para a disciplina de Design e UX</td>
-            <td><a href="https://github.com/paula-luiza/star-tours">star-tours</a> - design de website a partir de template existente para a disciplina de Design e UX</td>
+            <td><a href="https://www.figma.com/proto/A8WM9gvjoZLU8SEy3H1Wc7/matinee---paula-oliveira?node-id=1-2&node-type=CANVAS&t=PNtJocLbacCdWWxw-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2">matinee</a> - Criação de mockup de serviço de streaming de vídeo no Figma para a disciplina de Design e UX</td>
+            <td><a href="https://github.com/paula-luiza/star-tours">star-tours</a> - Design de website a partir de template existente para a disciplina de Design e UX</td>
         </tr>
         <tr>
             <td><a href="https://github.com/paula-luiza/cpp">c++</a> - Evolução do C++ a partir de exercícios na plataforma BeeCrowd</td>
